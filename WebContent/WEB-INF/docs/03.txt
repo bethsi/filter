@@ -1,0 +1,1 @@
+Filters are configured in the deployment descriptor of a web application 

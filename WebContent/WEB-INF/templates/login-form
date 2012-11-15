@@ -1,0 +1,6 @@
+      <form action="AuthenticateServlet" method="POST" class="form-signin">
+        <h2 class="form-signin-heading">Bejelentkezés</h2>
+        <input type="text" name="user" class="input-block-level" placeholder="Felhasználónév">
+        <input type="password" name="password" class="input-block-level" placeholder="Jelszó">
+        <button class="btn btn-large btn-primary" type="submit">Bejelentkezés</button>
+      </form>
