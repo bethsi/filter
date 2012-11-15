@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/docs/01.txt=UTF-8
+encoding//src/web/SetCharacterEncodingFilter.java=UTF-8
+encoding//src/web/SwearInsertFilter.scala=UTF-8
